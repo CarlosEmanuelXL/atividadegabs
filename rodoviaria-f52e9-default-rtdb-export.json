@@ -1,0 +1,136 @@
+{
+  "Funcionários": [
+    null,
+    {
+      "funcao": "Gerente",
+      "nome": "Gabriel",
+      "salario": "5700,00"
+    },
+    {
+      "funcao": "Atendente",
+      "nome": "Kaique",
+      "salario": "1800,00"
+    },
+    {
+      "funcao": "Motorista",
+      "nome": "Getúlio",
+      "salario": "2000,00"
+    },
+    {
+      "funcao": "Frentista",
+      "nome": "Dio",
+      "salario": "1900,00"
+    }
+  ],
+  "Onibus": [
+    null,
+    {
+      "empresa": "Princesa",
+      "estado": "Funcionando",
+      "rota": "Boa Viagem - Madalena"
+    },
+    {
+      "empresa": "guanabara",
+      "estado": "Consertando",
+      "rota": "Canindé - Quixeramobim"
+    },
+    {
+      "empresa": "buser",
+      "estado": "Funcionando",
+      "rota": "Quixadá - Fortaleza"
+    },
+    {
+      "empresa": "expresso",
+      "estado": "Quebrado",
+      "rota": "Fortaleza - Guanabara"
+    },
+    {
+      "empresa": "gontijo",
+      "estado": "Funcionando",
+      "rota": "Kariri - Macaoca"
+    }
+  ],
+  "Passageiros": [
+    null,
+    {
+      "nome": "carlin",
+      "poltrona": 12
+    },
+    {
+      "nome": "bidé",
+      "poltrona": 32
+    },
+    {
+      "nome": "kelvin",
+      "poltrona": 13
+    },
+    {
+      "nome": "ycrão",
+      "poltrona": "15"
+    },
+    {
+      "nome": "kelvin",
+      "poltrona": 19
+    },
+    {
+      "nome": "keuri",
+      "poltrona": 40
+    },
+    {
+      "nome": "natalia",
+      "poltrona": 36
+    },
+    {
+      "nome": "gerardo",
+      "poltrona": 24
+    },
+    {
+      "nome": "arrais",
+      "poltrona": 25
+    },
+    {
+      "nome": "dio",
+      "poltrona": 10
+    },
+    {
+      "nome": "marilia",
+      "poltrona": 12
+    },
+    {
+      "nome": "gabriel",
+      "poltrona": 14
+    },
+    {
+      "nome": "eduarda",
+      "poltrona": 11
+    },
+    {
+      "nome": "vandsu",
+      "poltrona": 33
+    },
+    {
+      "nome": "laísa",
+      "poltrona": 22
+    },
+    {
+      "nome": "helen",
+      "poltrona": 9
+    },
+    {
+      "nome": "lulu",
+      "poltrona": 2
+    },
+    {
+      "nome": "mama",
+      "poltrona": 1
+    },
+    {
+      "nome": "tavares",
+      "poltrona": 11
+    },
+    {
+      "nome": "ygor",
+      "poltrona": 22
+    }
+  ]
+}
